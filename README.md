@@ -1,5 +1,5 @@
 -  Hi, I’m @asrinibash
--  I’m interested in System design. Currently i'm learning 
+-  I’m interested in Block Chain Core Applications development And AI-ML 
 -  I’m currently learning Spring boot and React. And improving problem solving skills by practice DSA problems using java.
 -  I’m looking to collaborate on Developing Software products from scratch to Deployment.
 -  feel free to contact:
