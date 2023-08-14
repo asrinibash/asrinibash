@@ -1,5 +1,5 @@
 -  Hi, I’m @asrinibash
--  I’m a fullstack developer and i'm intrested in Block Chain Applications development And Rapid-API 
+-  I’m a fullstack developer and i'm intrested in Block Chain Applications development And Rapid-API development
 -  I’m currently learning Spring boot and React. And improving problem solving skills by practice DSA problems using java.
 -  I’m looking to collaborate on Developing Software products from scratch to Deployment.
 -  feel free to contact:
