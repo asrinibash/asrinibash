@@ -10,7 +10,7 @@ and making a positive impact through my work.
 
 
 ## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-srinibash-achary-2a947a238) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=white)](https://leetcode.com/a_srinibash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-srinibash-achary-2a947a238) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=yellow)](https://leetcode.com/a_srinibash)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?logo=HackerRank&logoColor=green)]([https://leetcode.com/a_srinibash](https://www.hackerrank.com/profile/asrinibashachary))
 [![GeekforGeeks](https://img.shields.io/badge/GeekforGeeks-%220077B5?logo=GFG&logoColor=green)]([https://leetcode.com/a_srinibash](https://auth.geeksforgeeks.org/user/asrinibasnkri/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user))
 
