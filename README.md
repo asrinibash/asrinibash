@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Srinibash
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Backend+Engineer;DevOps+%26+MLOps+Engineer;Cloud+Infrastructure+Specialist;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Backend+Engineer;DevOps+%26+MLOps+Engineer;Cloud+Infrastructure+Specialist;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
