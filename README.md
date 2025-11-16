@@ -1,7 +1,7 @@
 <!-- GitHub Profile README – Minimal -->
 
 ### 👋 Hi, I’m Srinibash  
-**MLOps & ML Engineer**  
+**AI/ML Engineer | MLOps**  
 I turn data-science notebooks into production-ready, auto-scaling services.
 
 - 🛠️ **Core:** Docker • Kubernetes • AWS/GCP • Python • scikit-learn • MLflow  
