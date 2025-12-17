@@ -1,12 +1,24 @@
 <!-- GitHub Profile README – Minimal -->
 
-### 👋 Hi, I’m Srinibash  
-**AI/ML Engineer | MLOps**  
-I turn data-science notebooks into production-ready, auto-scaling services.
+# Hi there, I'm Srinibash 👋
+### AI/ML Engineer | Generative AI & MLOps Specialist
 
-- 🛠️ **Core:** Docker • Kubernetes • AWS/GCP • Python • scikit-learn • MLflow  
-- 📊 **Focus:** CI/CD • Model serving • Drift monitoring • Cost-aware infra  
-- 🌱 **Learning:** LLMOps & Gen-AI deployment patterns  
+I bridge the gap between **Cutting-edge AI Research** and **Production Engineering**. I specialize in building **Autonomous Multi-Agent Systems**, scalable **RAG pipelines**, and deploying them on cloud-native infrastructure (AWS/Kubernetes).
 
-📧 [asrinibash.dev@gmail.com](mailto:asrinibash.dev@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/srini-mlops)  
+---
+
+### 🚀 **Tech Stack & Arsenal**
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Generative AI** | **LangChain**, **LangGraph**, Multi-Agent Systems, LLM Fine-tuning (LoRA), RAG |
+| **ML & Deep Learning** | Python, PyTorch, Transformers (BERT/GPT), Scikit-learn, Pandas, NumPy |
+| **MLOps & Cloud** | **AWS** (SageMaker, Bedrock, EKS), Docker, Kubernetes, GitHub Actions, MLflow |
+| **Backend & Tools** | FastAPI, Kafka, Vector DBs (FAISS/Chroma), SQL, Git |
+
+---
+
+### 📫 **Connect with Me**
+
+* **Email:** [asrinibashachary@gmail.com](mailto:asrinibashachary@gmail.com)
+* **LinkedIn:** [linkedin.com/in/asrinibash](https://linkedin.com/in/asrinibash-ai)
