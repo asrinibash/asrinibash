@@ -13,7 +13,7 @@ I bridge the gap between **Cutting-edge AI Research** and **Production Engineeri
 | :--- | :--- |
 | **Generative AI** | **LangChain**, **LangGraph**, Multi-Agent Systems, LLM Fine-tuning (LoRA), RAG |
 | **ML & Deep Learning** | Python, PyTorch, Transformers (BERT/GPT), Scikit-learn, Pandas, NumPy |
-| **MLOps & Cloud** | **AWS** (SageMaker, Bedrock, EKS), Docker, Kubernetes, GitHub Actions, MLflow |
+| **MLOps & Cloud** | **AWS/GCP** (Vertex AI, SageMaker), Docker, Kubernetes, GitHub Actions, MLflow |
 | **Backend & Tools** | FastAPI, Kafka, Vector DBs (FAISS/Chroma), SQL, Git |
 
 ---
